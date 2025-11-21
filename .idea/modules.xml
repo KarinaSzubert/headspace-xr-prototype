@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pannellum.iml" filepath="$PROJECT_DIR$/.idea/pannellum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/headspace-xr.iml" filepath="$PROJECT_DIR$/.idea/headspace-xr.iml" />
     </modules>
   </component>
 </project>
