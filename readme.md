@@ -1,6 +1,9 @@
-# Headspace: A Concussion Experience — Django Project
+# Headspace: A Concussion Experience — XR Prototype
 
-This is an interactive 360° concussion education experience built using Django + Pannellum.
+This is an interactive 360° concussion education experience built using Django + Pannellum. 
+
+## Project Overview
+This prototype demonstrates an interactive web-based 360° experience using Django as the backend framework and Pannellum as the viewer library. The project includes multiple scenes, tooltips, navigation, and a simple UI designed for desktop and mobile.
 
 This repository contains all source files needed to run the project locally in PyCharm.
 ## Steps to get this django app running on your own PC
